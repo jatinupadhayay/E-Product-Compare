@@ -58,4 +58,13 @@ cd price-peek
 
 Open index.html in your browser
 (or use Live Server in VS Code)-
-[Uploading Document 14.pdf…]()
+Apply Agile framework-[Agile Sprint Epc.pdf](https://github.com/user-attachments/files/25138830/Agile.Sprint.Epc.pdf)
+[ClassDiagram.pdf](https://github.com/user-attachments/files/25138850/ClassDiagram.pdf)
+[Activity_Diagram.pdf](https://github.com/user-attachments/files/25138851/Activity_Diagram.pdf)
+[Use Case diagram.pdf](https://github.com/user-attachments/files/25138854/Use.Case.diagram.pdf)
+
+Relational Databases_Management-[E commerce comparision ER diagram.pdf](https://github.com/user-attachments/files/25138867/E.commerce.comparision.ER.diagram.pdf)
+[schema.pdf](https://github.com/user-attachments/files/25138873/schema.pdf)
+Designthink-[price_peek-ppt.pdf](https://github.com/user-attachments/files/25138952/price_peek-ppt.pdf)
+
+Interface-[Uploading Document 14.pdf…]()
