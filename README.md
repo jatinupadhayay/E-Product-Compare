@@ -1,4 +1,4 @@
-<img width="747" height="414" alt="image" src="https://github.com/user-attachments/assets/527c8f24-a65f-45e1-9a15-a936beda066f" /># 🛒 Price Peek – E-commerce Web Application
+# 🛒 Price Peek – E-commerce Web Application
 
 Price Peek is a modern e-commerce web application that allows users to browse products, compare prices across platforms, manage wishlists, and handle user accounts.  
 This project is developed as an academic / learning project focusing on frontend UI, user flow, and basic e-commerce functionality.
@@ -49,7 +49,7 @@ This project is developed as an academic / learning project focusing on frontend
 Clone the repository:
 
 git clone https://github.com/jatinupadhayay/price-peek.git
-
+backend- git clone https://github.com/jatinupadhayay/price-peek-backend.git
 
 Open the project folder:
 
